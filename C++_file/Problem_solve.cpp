@@ -98,7 +98,8 @@ void solve2()
 }
 void solve()
 {
-    cout << "Hello World" << endl;
+    //cout << "Hello World!" << endl;
+    cout << "Google" << endl;
 }
 int main()
 {
